@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LondonCarPark.Provider.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6a758037</Value>
+    </Setting>
+    <Setting Name="AppKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cabd0e71808f11f363538c9fb1a62116</Value>
+    </Setting>
+    <Setting Name="HttpAPI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.tfl.gov.uk/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

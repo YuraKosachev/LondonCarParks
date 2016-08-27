@@ -1,0 +1,6 @@
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Provider\bin\Debug\LondonCarPark.Provider.dll
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Provider\bin\Debug\LondonCarPark.Provider.pdb
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Provider\obj\Debug\LondonCarPark.Provider.csprojResolveAssemblyReference.cache
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Provider\obj\Debug\LondonCarPark.Provider.dll
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Provider\obj\Debug\LondonCarPark.Provider.pdb
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Provider\bin\Debug\LondonCarPark.Provider.dll.config

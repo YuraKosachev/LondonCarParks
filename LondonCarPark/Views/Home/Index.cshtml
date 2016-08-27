@@ -1,0 +1,27 @@
+﻿@model IEnumerable<LondonCarPark.Models.CarParkViewModel>
+
+@{
+    ViewBag.Title = "Car parks";
+}
+
+<h2>@ViewBag.Title</h2>
+@foreach (var item in Model)
+{
+
+    <h4 class="h4">@item.NameCarPark</h4>
+    <table class="table table-bordered">
+        <tr>
+            
+            <th>Bay count</th>
+            <th>Bay type</th>
+            <th>Free</th>
+            <th>Occupied</th>
+        </tr>
+        @foreach (var bay in item.Bays) {
+            <tr>
+                <td>@bay.BayCount</td><td>@bay.BayType</td><td>@bay.Free</td><td>@bay.Occupied</td>
+            </tr>
+        }
+    </table>
+
+}

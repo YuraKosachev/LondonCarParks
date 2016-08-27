@@ -1,0 +1,7 @@
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Service\bin\Debug\LondonCarPark.Service.dll
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Service\bin\Debug\LondonCarPark.Service.pdb
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Service\bin\Debug\LondonCarPark.Provider.dll
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Service\bin\Debug\LondonCarPark.Provider.pdb
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Service\obj\Debug\LondonCarPark.Service.csprojResolveAssemblyReference.cache
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Service\obj\Debug\LondonCarPark.Service.dll
+E:\УЧЕБА\Тестовое задание FBH\ver 3\LondonCarPark\LondonCarPark.Service\obj\Debug\LondonCarPark.Service.pdb
